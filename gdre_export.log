@@ -1,0 +1,128 @@
+GDRE Tools v0.8.0
+macOS 15.1.1, Apple M2 Max, opengl3
+Extracted 1978 files, no errors detected!
+WARNING: Converting lossy imports, you may lose fidelity for indicated assets when re-importing upon loading the project
+   at: _export_imports (modules/gdsdecomp/utility/import_exporter.cpp:181)
+Exporting resources in parallel...
+Loading resource strings, this may take a while!!
+Resource strings loaded!
+Saved project config project.godot.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     0
+Failed scripts:                         0
+Imported resources for export session:  916
+Successfully converted:                 916
+Lossy:                                  1
+Rewrote metadata:                       797
+Non-importable conversions:             68
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+The following files were converted from an import that was stored lossy.
+You may lose fidelity when re-importing these files upon loading the project.
+res://.godot/imported/grain.jpg-657f15066c3ccdf93bc92f8ff87ee7db.s3tc.ctex to res://GodotRetro/Other/Images/grain.jpg
+------
+
+The following files were converted and saved to a non-original path, but did not have their import data rewritten.
+These files will not be re-imported when loading the project.
+res://.godot/imported/adrenalline without pointers1.glb-acdae1d962f73923e956f00a4828051e.scn to res://.assets/models/adrenaline without pointers/adrenalline without pointers1.glb
+res://.godot/imported/backroom blockout4.glb-a6a90c0f4fbe1dccbecfb21ded0435ef.scn to res://.assets/models/backroom blockout3/backroom blockout4.glb
+res://.godot/imported/backroom blockout6.glb-5cd1fef656887265e1c1002efe847a21.scn to res://.assets/models/backroom blockout5/backroom blockout6.glb
+res://.godot/imported/backroom upper cables1.glb-166f15f1e8234f34cfa3f92a586ce6b4.scn to res://.assets/models/backroom upper cable/backroom upper cables1.glb
+res://.godot/imported/bird4.glb-e4e777cdb427b8ac6f06685b9c1fc895.scn to res://.assets/models/bird1/bird4.glb
+res://.godot/imported/briefcase machine1.glb-6238435ea49829be00b72b1b47929b73.scn to res://.assets/models/briefcase machine/briefcase machine1.glb
+res://.godot/imported/crt sa1.glb-f7ad1564c1f58cac05959ba855009d50.scn to res://.assets/models/crt sa11/crt sa1.glb
+res://.godot/imported/crt main1.glb-7f94a2b41748a61e3753e3f6131a67a6.scn to res://.assets/models/crt/crt main1.glb
+res://.godot/imported/player cuff bar1.glb-dae6c2e08cf4780da0fc28e308f0756b.scn to res://.assets/models/cuff bar/player cuff bar1.glb
+res://.godot/imported/dealer hands_adrenaline1.glb-871913308b26b0c4f31c10eb40fd2798.scn to res://.assets/models/dealer hand adrenaline/dealer hands_adrenaline1.glb
+res://.godot/imported/dealer hands_burner phone1.glb-3a88cd8baae3b7709f3164b4851275cc.scn to res://.assets/models/dealer hand burner phone/dealer hands_burner phone1.glb
+res://.godot/imported/dealer hand_handcuffed1.glb-a589c5eb65ab9a598243b04e243b7f53.scn to res://.assets/models/dealer hand handcuffed/dealer hand_handcuffed1.glb
+res://.godot/imported/dealer hand_zippo.glb-f60d58526721f43dedfbdcfae9ec7a45.scn to res://.assets/models/dealer hand zippo/dealer hand_zippo.glb
+res://.godot/imported/dealer hands main1.glb-4bdef2d04de9f0569795d174b0a30b9f.scn to res://.assets/models/dealer hands main/dealer hands main1.glb
+res://.godot/imported/dealer hands_expired medicine blister pack1.glb-592b30579f6e321c86cd589a7ce1085a.scn to res://.assets/models/dealer hands medicine/dealer hands_expired medicine blister pack1.glb
+res://.godot/imported/dealer hands_expired medicine1.glb-4790c13de1a2c77cc408460815ee8b50.scn to res://.assets/models/dealer hands medicine/dealer hands_expired medicine1.glb
+res://.godot/imported/dealer hands on table1.glb-641465ee7621d821e78aaaae8f690584.scn to res://.assets/models/dealer hands on table/dealer hands on table1.glb
+res://.godot/imported/dealer hands_inverter1.glb-15e6a85546f5891fdb2fb14c79370a98.scn to res://.assets/models/dealer hands_inverter/dealer hands_inverter1.glb
+res://.godot/imported/dealer head crushed test.glb-68948ae74346df69d8bcd0ab582ec6c9.scn to res://.assets/models/dealer head crushed/dealer head crushed test.glb
+res://.godot/imported/dealer head crushed test1.glb-ddf26f95f02fbdaf0a51bacd75e5352a.scn to res://.assets/models/dealer head crushed/dealer head crushed test1.glb
+res://.godot/imported/dealer head rigged1.glb-99c430e810d2b6d385419a05f6cff9aa.scn to res://.assets/models/dealer head rigged/dealer head rigged1.glb
+res://.godot/imported/double nothing machine1.glb-623646ec6313c54a0aca60f7a3598282.scn to res://.assets/models/double nothing machine/double nothing machine1.glb
+res://.godot/imported/expired medicine opaque2.glb-1d4bc7a90cd7c0e80954a00129a2ce79.scn to res://.assets/models/expired medicine opaque/expired medicine opaque2.glb
+res://.godot/imported/health counter main1.glb-3842ab1f0386692703fe777cc8171b24.scn to res://.assets/models/health counter main/health counter main1.glb
+res://.godot/imported/heaven door1.glb-6ad2a06b1a5654c7949999dce9d1c917.scn to res://.assets/models/heaven door1/heaven door1.glb
+res://.godot/imported/heaven pokers1.glb-611189450bb73c1fb42756f6417c5ae1.scn to res://.assets/models/heaven1/heaven pokers1.glb
+res://.godot/imported/heaven1.glb-7633818ec645497a959bc76d17eed59e.scn to res://.assets/models/heaven1/heaven1.glb
+res://.godot/imported/ibm key1.glb-5229b9da417208abbd3446edcd85e11c.scn to res://.assets/models/ibm key/ibm key1.glb
+res://.godot/imported/inverter shattered frame1.glb-367c73e9995389c09d15c68cd3dc48d1.scn to res://.assets/models/inverter shattered frame/inverter shattered frame1.glb
+res://.godot/imported/item grid indicator1.glb-6c3fc3c4e16a4e34d5e97fa6c7d36e5e.scn to res://.assets/models/item grid indicator/item grid indicator1.glb
+res://.godot/imported/lobby area blockout1.glb-93ba86f5cc28c8670541737c7f1a6592.scn to res://.assets/models/lobby area1/lobby area blockout1.glb
+res://.godot/imported/lobby area blockout2.glb-c58e6349a1b6279c6f57ea12cdd5c756.scn to res://.assets/models/lobby area2/lobby area blockout2.glb
+res://.godot/imported/lobby area blockout3.glb-d35c7f4f9cdbcd66567da340cc460d1c.scn to res://.assets/models/lobby area3/lobby area blockout3.glb
+res://.godot/imported/lobby area blockout4.glb-6f637dd1ebccfcb554476093baa48279.scn to res://.assets/models/lobby area4/lobby area blockout4.glb
+res://.godot/imported/lobby area blockout5.glb-0e5f366c0229c6296292d70cf3ad5479.scn to res://.assets/models/lobby area5/lobby area blockout5.glb
+res://.godot/imported/handsaw1.glb-ac2e4a0cc45c2f37f0bb2dc8a4f179f5.scn to res://.assets/models/main items/handsaw1.glb
+res://.godot/imported/main items1.glb-5d7c3e743ed85b1330b10f5e003a9949.scn to res://.assets/models/main items/main items1.glb
+res://.godot/imported/makeship plushie1.glb-c9cf76e451f9a6fbb02e4d065ae37155.scn to res://.assets/models/makeship plushie/makeship plushie1.glb
+res://.godot/imported/muzzle flash test1.glb-3bdfecaf8eb2553bf63d2156c7d02c56.scn to res://.assets/models/muzzle flash1/muzzle flash test1.glb
+res://.godot/imported/new items main1.glb-322da063617e92526078b7f0316c972d.scn to res://.assets/models/new items/new items main1.glb
+res://.godot/imported/player defib device3.glb-2286dc42c82519adca0ee7d269d0470b.scn to res://.assets/models/player defib device2/player defib device3.glb
+res://.godot/imported/handcuffs_player bar2.glb-15b9ac97d6d973b2ae8ddffe9ad14d4c.scn to res://.assets/models/player handcuffs on bar/handcuffs_player bar2.glb
+res://.godot/imported/player leg1.glb-84ffd83bea227e33c7d3588ee4ea9205.scn to res://.assets/models/player leg/player leg1.glb
+res://.godot/imported/player vehicle1.glb-412c786a3b6530673931488aa171caa0.scn to res://.assets/models/player vehicle/player vehicle1.glb
+res://.godot/imported/release form patched1.glb-5a9808b2d6dd136e0538307613ce84ea.scn to res://.assets/models/release form patched/release form patched1.glb
+res://.godot/imported/release form patched2.glb-5ba460ff7ef41e0d0ebece080f3eb2f7.scn to res://.assets/models/release form patched/release form patched2.glb
+res://.godot/imported/restroom1.glb-c67e268094a0d1d76de044aa3c099ede.scn to res://.assets/models/restroom1/restroom1.glb
+res://.godot/imported/sample object export1.glb-7f62cb49708131f93445a3f268036158.scn to res://.assets/models/sample object/sample object export1.glb
+res://.godot/imported/shell waterfall2.glb-0bebf283d4ffce654180a92ab48c841e.scn to res://.assets/models/shell waterfall/shell waterfall2.glb
+res://.godot/imported/shotgun with hands2.glb-179598454fcdf296820edfb8e62f1605.scn to res://.assets/models/shotgun new/shotgun with hands2.glb
+res://.godot/imported/shotgun shells export1.glb-bb4d9e273d5997991b1111b69c36a640.scn to res://.assets/models/shotgun shells/shotgun shells export1.glb
+res://.godot/imported/signature machine colliders1.glb-2c5b77443ba114bc370ebd0eb832229f.scn to res://.assets/models/signature machine colliders/signature machine colliders1.glb
+res://.godot/imported/signature machine lid1.glb-097ed296a66ed1aef52449bc9c00b1dd.scn to res://.assets/models/signature machine lid/signature machine lid1.glb
+res://.godot/imported/signature machine writer1.glb-906c64f72b19c984f26eac4d0f83bd13.scn to res://.assets/models/signature machine writer/signature machine writer1.glb
+res://.godot/imported/signature machine2.glb-f9e7eb09e1074a8fee333c6c4634f221.scn to res://.assets/models/signature machine/signature machine2.glb
+res://.godot/imported/smoker dude revive player1.glb-d67f7159b48aeccc10daa530e3702548.scn to res://.assets/models/smoker dude revive player/smoker dude revive player1.glb
+res://.godot/imported/smoking dude12.glb-86f979513c98eb06f028ef853ebbb15a.scn to res://.assets/models/smoking dude1/smoking dude12.glb
+res://.godot/imported/tabletop briefcase1.glb-92fcb3eba3004d2e1a0b8b7b9a9b6b79.scn to res://.assets/models/tabletop briefcase/tabletop briefcase1.glb
+res://.godot/imported/tabletop compartment origins fix2.glb-95372bbd0ead0335b3df7a01fc25b16b.scn to res://.assets/models/tabletop compartment origins2/tabletop compartment origins fix2.glb
+res://.godot/imported/tabletop export1.glb-de833a2536d860d383827f51bd0b6c43.scn to res://.assets/models/tabletop export1/tabletop export1.glb
+res://.godot/imported/tabletop export2.glb-35946257bfcc8668e003b1c0b367aaa1.scn to res://.assets/models/tabletop export1/tabletop export2.glb
+res://.godot/imported/tabletop export6.glb-e75b3164e767cba79b18e30d75feb276.scn to res://.assets/models/tabletop export6/tabletop export6.glb
+res://.godot/imported/tabletop health counter export1.glb-b8c0ea304854d28348773e7fc49c4919.scn to res://.assets/models/tabletop health counter/tabletop health counter export1.glb
+res://.godot/imported/tabletop interior1.glb-cd161d37780c74feb986616d1ecb381d.scn to res://.assets/models/tabletop interior1.glb
+res://.godot/imported/tabletop standalone export2.glb-31dad7bf13e15be224f39acb7a24da6a.scn to res://.assets/models/tabletop standalone2/tabletop standalone export2.glb
+res://.godot/imported/dealer temp model export1.glb-2e30521658a42a58330a43a6a4bcecb3.scn to res://.assets/models/temp delaer export1/dealer temp model export1.glb
+res://.godot/imported/vehicle backdrop1.glb-17fd62b385dd9d48ddffeecc790cf3e7.scn to res://.assets/models/vehicle backdrop/vehicle backdrop1.glb
+res://.godot/imported/vellon statue1.glb-50406817c0ba660ca94bf8af8c71f0c3.scn to res://.assets/models/vellon statue/vellon statue1.glb
+
+
+
+---------------------------------IMPORTANT NOTES----------------------------------
+
+
+Experimental Scene Export:
+Scene export is EXPERIMENTAL and exported scenes may be inaccurate.
+Thus, all exported scenes have been saved to the .assets directory, which will not be picked up by the editor for import.
+Please report any issues you encounter with exported scenes to the Github page Github.
+
+------
+Translation Export Incomplete:
+WARNING: Could not recover 2 keys for res://localization/Buckshot Roulette - Localization Sheet - Sheet47.csv
+
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 4.1.1 to edit the project.
+Note: the project may be using a custom version of Godot. Detection for this has not been implemented yet.
+If you find that you have many non-import errors upon opening the project 
+(i.e. scripts or shaders have many errors), use the original game's binary as the export template.
+
+*******************************************************************************
+
