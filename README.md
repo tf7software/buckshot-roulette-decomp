@@ -1,6 +1,9 @@
 Buckshot Roulette Decomp
 ---
 
+> [!IMPORTANT]
+> This has not been debugged because I have better things to do than debug in binary :)
+
 ## To run:
   1. Buy a copy of Buckshot Roulette [HERE](https://mikeklubnika.itch.io/buckshot-roulette)
   2. Unpack ```scenes/main.tscn.zip``` (It was too big to push normally)
