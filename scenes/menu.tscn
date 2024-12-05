@@ -1,4 +1,4 @@
-[gd_scene load_steps=96 format=4 uid="uid://c5j48moslad0v"]
+[gd_scene load_steps=96 format=4 uid="uid://7lcrcvnafgck"]
 
 [ext_resource type="Script" path="res://scripts/MenuManager.gd" id="1"]
 [ext_resource type="Script" path="res://scripts/TempDeathScreen.gd" id="2"]
