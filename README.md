@@ -8,4 +8,4 @@ Buckshot Roulette Decomp
 
 Disclaimer
 ---
-I do not own or operate Buckshot Roulette, and this repo is purely for Educational purposes and for people that have bought a licence.
+I do not own or operate Buckshot Roulette, and this repo is purely for educational purposes and for people that have bought a licence.
