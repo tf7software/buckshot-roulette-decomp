@@ -8,4 +8,4 @@ Buckshot Roulette Decomp
 
 Disclaimer
 ---
-I do not own or operate Buckshot Roulette, and this repo is purely for educational purposes and for people that have bought a licence.
+I do not own or operate Buckshot Roulette (I OWN A COPY OF BOTH THE ITCH AND STEAM VERSION, FYI), and this repo is purely for educational purposes and for people that have bought a licence.
